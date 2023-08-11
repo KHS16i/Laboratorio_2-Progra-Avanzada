@@ -171,3 +171,45 @@ footer ul {
     margin-right: 2%;
     margin-left: 2%;
 }
+
+
+/* ------------------------------------------cotizar---------------------------------------- */
+
+
+.Main_Div_cotizar{
+    color: white;
+    padding-top: 200px;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.tabla-cotizar{
+    color: rgb(183, 138, 255);
+    box-shadow: 0px 5px 10px 0px rgb(24, 24, 24);
+}
+
+.contacto{
+    border: 1px solid rgb(183, 138, 255);
+}
+
+.vend{
+    color: white;
+    background-color: rgb(20, 20, 20);
+    padding-bottom: 4%;
+}
+
+.info{
+    color: #1b1b1b;
+    background-color: rgb(224, 224, 224);
+}
+
+.pic{
+    display: block;
+    width: 60%;
+    height: 60%;
+    margin: 10% auto;
+}
+
+.msj{
+    padding-bottom: 20%;
+}
